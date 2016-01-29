@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+	<!--
+    <Preference
+    	  android:key="mcp_info"
+        style="?android:preferenceInformationStyle"
+        android:title="@string/mcp_info" >
+    </Preference>
+    <Preference
+    	  android:key="lcd_info"
+        style="?android:preferenceInformationStyle"
+        android:title="@string/lcd_info" >
+    </Preference>
+    <Preference
+    	  android:key="camara_info"
+        style="?android:preferenceInformationStyle"        
+        android:title="@string/camara_info" >
+    </Preference>
+    <Preference
+    	  android:key="tp_info"
+        style="?android:preferenceInformationStyle"        
+        android:title="@string/tp_info" >
+    </Preference> !-->
+    <Preference
+	    android:key="hz_ota_version_number"
+        style="?android:preferenceInformationStyle"
+        android:title="@string/hz_ota_version_number">
+	</Preference>
+    <Preference
+	    android:key="hz_hard_version_number"
+        style="?android:preferenceInformationStyle"
+        android:title="@string/hz_hard_version_number">
+	</Preference>
+	<!--
+	<Preference
+	    android:key="hz_other_version_number"
+        style="?android:preferenceInformationStyle"
+        android:title="@string/hz_other_version_number">
+	</Preference>
+	-->
+	<Preference
+	    android:key="hz_svn_number"
+        style="?android:preferenceInformationStyle"
+        android:title="@string/hz_svn_number">
+	</Preference>
+
+</PreferenceScreen>
